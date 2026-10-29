@@ -6,7 +6,7 @@ Sales Development Representative · B2B lead generation · LinkedIn Outreach · 
 
 I help businesses identify ideal prospects, build targeted lead lists, connect with decision-makers, and generate qualified sales opportunities through data-driven prospecting, personalized outreach, and effective CRM management. My expertise includes LinkedIn Lead Generation, Email List Building, Email Verification, Cold Email Campaigns, Market Research, Appointment Setting, and Sales Pipeline Management. I focus on helping businesses streamline their sales processes, improve outreach efficiency, and build sustainable growth through strategic lead generation.
 
-[LinkedIn](https://linkedin.com/in/chmzulqarnain) · [GitHub](https://github.com/mzulqarnainch) · [YouTube](https://youtube.com/@mzulqarnainch) · [Instagram](https://www.instagram.com/___mzulqarnain___) · [FaceBook](https://www.facebook.com/mchzulqarnain) · [Email](mailto:mzulqarnainch@outlook.com) · [WhatsApp](https://wa.me/923239672765) · [X](https://x.com/@mzulqarnainch)
+[LinkedIn](https://linkedin.com/in/chmzulqarnain) · [GitHub](https://github.com/mzulqarnainch) · [YouTube](https://youtube.com/@mzulqarnainch) · [Instagram](https://www.instagram.com/___mzulqarnain___) · [FaceBook](https://www.facebook.com/mchzulqarnain) · [Email](mailto:mzulqarnainch@outlook.com) · [Work Email](mailto:m.zulqarnain@codeessenceinc.com) · [WhatsApp](https://wa.me/923239672765) · [X](https://x.com/@mzulqarnainch)
 
 </div>
 
