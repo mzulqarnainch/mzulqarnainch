@@ -1,0 +1,9 @@
+Verification completed locally with Chromium.
+- All five SVG files parse as XML.
+- Rendered each SVG at SMIL timeline positions 0, 2, 5, 9 and 13 seconds.
+- Rendered reduced-motion variants, animation-stripped static variants, and the artwork embedded as img elements in preview.html.
+- Checked transparent PNG alpha channels: id.png alpha range 0–255; right_pointing.png alpha range 0–254. Both images were copied byte-for-byte from the supplied conversation assets.
+- SVGs embed their PNGs and WOFF2 fonts; no external asset URLs are referenced by SVGs.
+- No repository counts or contribution metrics are included.
+
+Note: GitHub sanitizes SVG content and its animation behavior can vary between clients; preview.html is the local reference preview.
