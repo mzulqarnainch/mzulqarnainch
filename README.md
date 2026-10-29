@@ -2,7 +2,7 @@
 
 # Muhammad Zulqarnain
 
-**Sales Development Representative · Email Marketing · LinkedIn Outreach**
+**Sales Development Representative · B2B lead generation · LinkedIn Outreach · B2B Data Scraping & Verification · CRM Integration & Analytics · Data Entry · Decision-maker identification · C-level executive and Founder lists · Email verification and validation · CRM data cleansing and deduplication · Email sequence creation**
 
 [LinkedIn](https://linkedin.com/in/chmzulqarnain) · [GitHub](https://github.com/mzulqarnainch) · [YouTube](https://youtube.com/@mzulqarnainch) · [Instagram](https://www.instagram.com/___mzulqarnain___)
 
